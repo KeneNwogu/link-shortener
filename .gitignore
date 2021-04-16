@@ -1,0 +1,6 @@
+ecommerce/__pycache__
+.venv
+__pycache__/
+.vscode
+find.py
+test.py
